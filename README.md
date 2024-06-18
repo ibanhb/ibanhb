@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ibanhb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hello, I'm @ibanhb
+- 👀 I am interested in new technologies, music and my family.
+- 🌱 I'm currently learning Go, Python, Terraform.
+- 💞️ I am looking to collaborate on multiple projects with Latam clients.
+- 📫 How to contact me https://bit.ly/4linkme
 
 <!---
 ibanhb/ibanhb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
