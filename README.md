@@ -1,6 +1,6 @@
 - 👋 Hello, I'm @ibanhb
 - 👀 I am interested in new technologies, music and my family.
-- 🌱 I'm currently learning Go, Python, Terraform.
+- 🌱 I'm currently learning Go, Python, Terraform and more.
 - 💞️ I am looking to collaborate on multiple projects with Latam clients.
 - 📫 How to contact me https://bit.ly/4linkme
 
